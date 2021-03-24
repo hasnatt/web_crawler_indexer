@@ -1,5 +1,5 @@
-# Python web scraper and indexer
-## COMP3011 Web services and data CWK2
+# Python webs craper and indexer 
+## COMP3011 CWK2
 
 
 ## Run the following commands
