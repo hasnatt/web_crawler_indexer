@@ -1,4 +1,4 @@
-# Python webs craper and indexer 
+# Python webs scraper and indexer 
 ## COMP3011 CWK2
 
 
